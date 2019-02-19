@@ -56,11 +56,11 @@ document.getElementsByclassName('gallery')[0].getElementsByTagName(‘input’)[
 Configuration that was shown in the demonstration is 
 ```
 {
-  "https://www.unsplash.com/search/photos/*":{
+  "https://www.unsplash.com/search" : {
     "title":"tag=input=0/?=value",
     "path":"class=_1pn7R/tag=a=0/?=href/navigate/class=_2yFK- IEpfq=0/tag=img=0/?=src",
     "next":"",
-    "site":"https://www.unsplash.com/search"
+    "site":,"https://www.unsplash.com/search/photos/*"
     }
 }
 ```
