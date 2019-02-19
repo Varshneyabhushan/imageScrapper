@@ -57,11 +57,10 @@ Configuration that was shown in the demonstration is
 ```
 {
   "https://www.unsplash.com/search/photos/*":{
-    "1":"https://www.unsplash.com/search/photos/*",
-    "2":"tag=input=0/?=value",
-    "3":"class=_1pn7R/tag=a=0/?=href/navigate/class=_2yFK- IEpfq=0/tag=img=0/?=src",
-    "4":"",
-    "5":"https://www.unsplash.com/search"
+    "title":"tag=input=0/?=value",
+    "path":"class=_1pn7R/tag=a=0/?=href/navigate/class=_2yFK- IEpfq=0/tag=img=0/?=src",
+    "next":"",
+    "site":"https://www.unsplash.com/search"
     }
 }
 ```
