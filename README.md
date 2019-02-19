@@ -60,7 +60,7 @@ Configuration that was shown in the demonstration is
     "title":"tag=input=0/?=value",
     "path":"class=_1pn7R/tag=a=0/?=href/navigate/class=_2yFK- IEpfq=0/tag=img=0/?=src",
     "next":"",
-    "site":,"https://www.unsplash.com/search/photos/*"
+    "site":"https://www.unsplash.com/search/photos/*"
     }
 }
 ```
