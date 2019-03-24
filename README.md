@@ -28,9 +28,8 @@ Image scrapper is a chrome extension that can be used to exctract image URLs out
 # How to Configure
 
 1. url : Match pattern that matches to deserved URLs.
-2. name : address of the [DOM element](https://developer.mozilla.org/en-US/docs/Web/API/Element) in the document that contains title of the album
-3. path : address of the DOM elements which have URLs of pictures you want to fetch
-4. next : address of the element that has link to the document containing next set of pictures. Leave it blank if there are no more pictures to be fetched.
+2. path : address of the [DOM elements](https://developer.mozilla.org/en-US/docs/Web/API/Element) in the document which have URLs of pictures you want to fetch
+3. next : address of the element that has link to the document containing next set of pictures. Leave it blank if there are no more pictures to be fetched.
 
 ## Syntax
 
